@@ -1,7 +1,7 @@
 {
   "name": "cabsharingapp",
   "version": "1.0.0",
-  "description": "CS253 Project",
+  "description": " Project",
   "main": "app.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -31,15 +31,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmukati-1/CabSharingApp.git"
+    "url": "git+https://github.com/utl6488/CabSharingApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rmukati-1/CabSharingApp/issues"
+    "url": "https://github.com/utl6488/CabSharingApp/issues"
   },
-  "homepage": "https://github.com/rmukati-1/CabSharingApp#readme",
+  "homepage": "https://github.com/utl6488/CabSharingApp#readme",
   "devDependencies": {
     "ejs-lint": "^1.2.1"
   }
